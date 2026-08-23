@@ -1,7 +1,12 @@
 {
   "domains": [
+    "web9.shiku.im",
+    "web8.shiku.im",
+    "web7.shiku.im",
+    "web6.shiku.im",
+    "web5.shiku.im",
     "web4.shiku.im",
-    "api-2.example.com"
+    "web3.shiku.im"
   ],
   "fileDomains": [
     "upload.shiku.im",
