@@ -1,1 +1,10 @@
-
+{
+  "domains": [
+    "web.kuxin.im",
+    "api-2.example.com"
+  ],
+  "fileDomains": [
+    "upload.kuxin.im",
+    "file-2.example.com"
+  ]
+}
